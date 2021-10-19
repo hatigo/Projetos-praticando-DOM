@@ -1,4 +1,4 @@
-# Exercício-01:
+# Exercício-01: 
 
 ## Slider de depoimentos
 
