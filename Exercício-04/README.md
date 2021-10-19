@@ -14,14 +14,6 @@ Você deve:
  - manipulação de texto dos elementos
  - manipulação de atributo dos elementos
 
-<details>
-  <summary>Dicas</summary>
-  <ul>
-    <li>Podemos usar a função <code>sort()</code> para ordenar o array</li>
-    <li>Podemos usar a função <code>slice()</code> para criar um novo array com apenas os primeiros 5 elementos</li>
-    <li>Podemos selecionar todos os itens da lista com <code>document.querySelectorAll('li')</code>, dar um loop na lista retornada e para cada item da lista executarmos um <code>document.querySelector()</code> em cada elemento do item da lista</li>
-  </ul>
-</details>
 
 ---
 
