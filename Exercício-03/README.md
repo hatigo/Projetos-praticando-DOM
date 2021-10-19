@@ -1,6 +1,4 @@
-![](https://i.imgur.com/xG74tOh.png)
-
-# Exercício de casa 🏠
+# Exercício-03:
 
 ## Frases motivadoras
 
@@ -21,12 +19,5 @@ Para pegarmos um indíce aleatório de 0 até um tamanho conhecido podemos utili
  - manipulação de texto dos elementos
 
 ---
-
-Preencha a checklist para finalizar o exercício:
-
-- [ ] Resolver o exercício revendo a aula se necessário
-- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 
 ###### tags: `front-end` `módulo 2` `exercício de casa` `DOM` `JS`
